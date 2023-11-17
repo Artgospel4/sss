@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaiya Genius</title>
+    <style>
+        /* Adicione estilos CSS conforme necessário */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #555;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shaiya Genius</h1>
+    </header>
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#registro">Registro</a>
+        <a href="#droplist">Drop List</a>
+        <a href="#ranking">Ranking</a>
+        <a href="#informacao">Informação do Servidor</a>
+        <a href="#download">Download</a>
+        <a href="#donate">Donate</a>
+    </nav>
+    <section id="inicio">
+        <h2>Bem-vindo ao Shaiya Genius!</h2>
+        <!-- Conteúdo da página inicial -->
+    </section>
+    <section id="registro">
+        <h2>Registro</h2>
+        <!-- Formulário de registro -->
+    </section>
+    <section id="droplist">
+        <h2>Drop List</h2>
+        <!-- Lista de drops do jogo -->
+    </section>
+    <section id="ranking">
+        <h2>Ranking</h2>
+        <!-- Tabela de ranking do jogo -->
+    </section>
+    <section id="informacao">
+        <h2>Informação do Servidor</h2>
+        <!-- Informações sobre o servidor -->
+    </section>
+    <section id="download">
+        <h2>Download</h2>
+        <!-- Links para download do cliente do jogo -->
+    </section>
+    <section id="donate">
+        <h2>Donate</h2>
+        <!-- Informações sobre como doar para o servidor -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Shaiya Genius. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
